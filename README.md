@@ -1,12 +1,14 @@
-# day4
-Dashboard for Sales Data Analysis
-Analyze Adidas sales data to uncover insights into sales trends, product performance, and regional distribution.
+# day3
+# Dashboard for Sales Data Analysis
+  Analyze Adidas sales data to uncover insights into sales trends, product performance, and regional distribution.
 
-Tool Used: Power BI Desktop
+# Tool Used: 
+  Power BI Desktop
 
-Filters: Sales Method selection
+# Filters: 
+  Sales Method selection
 
-Visuals:
+# Visuals:
   Total Sales by State (Bar Chart)
   Total Sales by Region (Donut Chart)
   Total Sales over Time (Line Chart)
